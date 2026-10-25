@@ -1,0 +1,4 @@
+USAGE Villager-News-Addon
+villager news addon. minecraft bedrock. gossip.
+Extract. Run. See readme.
+Stamp rev-t6pk7r-20261025
